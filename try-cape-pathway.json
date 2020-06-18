@@ -1,5 +1,9 @@
 {
   "title": "Try CAPE",
   "description": "Try CAPE",
-  "courses": []
+  "courses": [{
+    "course_id": "try-cape",
+    "title": "Try CAPE",
+    "description": "Try CAPE."
+  }]
 }
