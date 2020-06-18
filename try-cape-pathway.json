@@ -2,7 +2,7 @@
   "title": "Try CAPE",
   "description": "Try CAPE",
   "courses": [{
-    "course_id": "try-cape",
+    "course_id": "install-cape",
     "title": "Try CAPE",
     "description": "Try CAPE."
   }]
