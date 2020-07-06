@@ -26,17 +26,30 @@
       "text": "finish.md"
     }
   },
-  "environment": {    
+  "environment": {
     "showdashboard": "true",
     "dashboards": [
-        {
-          "name": "CAPE Console", 
-          "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"
-        }
-      ],
+      {
+        "name": "CAPE Console",
+        "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"
+      }
+    ],
     "uilayout": "terminal-terminal",
     "hideintro": false,
-    "hidefinish": false
+    "hidefinish": false,
+    "environment": {
+      "terminals": [
+        {
+          "name": "CAPE Control Plane",
+          "target": "host01"
+        },
+        {
+          "name": "cluster1",
+          "command": "",
+          "target": "host02"
+        }
+      ]
+    }
   },
   "backend": {
     "imageid": "kubernetes-cluster-running"
