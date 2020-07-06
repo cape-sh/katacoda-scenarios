@@ -29,10 +29,12 @@
   "environment": {    
     "showdashboard": "true",
     "dashboards": [
-      {
-        "name": "CAPE Console", "port": 443}
+        {
+          "name": "CAPE Console", 
+          "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"
+        }
       ],
-    "uilayout": "terminal-terminal-iframe",
+    "uilayout": "terminal-terminal",
     "hideintro": false,
     "hidefinish": false
   },
