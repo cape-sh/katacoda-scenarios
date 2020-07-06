@@ -29,7 +29,7 @@
     "showdashboard": "true",
     "dashboards": [
       {
-        "name": "Admin Console", "port": 8443}
+        "name": "CAPE Console", "port": 443}
       ],
     "uilayout": "terminal-iframe",
     "hideintro": false,
