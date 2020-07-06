@@ -2,5 +2,5 @@
 
 Enter the following command
 ```
-kubectl -n cape set env API_BASE_URL=https://[HOST2_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
+kubectl -n cape set env API_BASE_URL=[[HOST2_SUBDOMAIN]]-31302-[[KATACODA_HOST]].environments.katacoda.com
 ```{{execute}}
