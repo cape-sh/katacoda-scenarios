@@ -1,9 +1,9 @@
 {
-  "title": "Try CAPE",
-  "description": "Try CAPE",
+  "title": "CAPE",
+  "description": "Kubernetes multi-cluster application and data management made simple. ",
   "courses": [{
     "course_id": "install-cape",
-    "title": "Try CAPE",
-    "description": "Try CAPE."
+    "title": "CAPE",
+    "description": "kubernetes multi-cluster application and data management made simple. ."
   }]
 }
