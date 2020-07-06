@@ -34,12 +34,12 @@
         "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"
       }
     ],
-    "uilayout": "terminal-terminal",
+    "uilayout": "terminal-iframe",
     "hideintro": false,
     "hidefinish": false,
     "assets":{
       "host01": [
-          {"file": "ingress-install.yaml", "target": "/root/"}
+          {"file": "ingress-install.yaml", "target": "/root"}
       ]
     },
     "environment": {
