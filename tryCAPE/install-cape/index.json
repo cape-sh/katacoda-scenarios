@@ -37,6 +37,11 @@
     "uilayout": "terminal-terminal",
     "hideintro": false,
     "hidefinish": false,
+    "assets":{
+      "host01": [
+          {"file": "ingress-install.yaml", "target": "/root/"}
+      ]
+    },
     "environment": {
       "terminals": [
         {
