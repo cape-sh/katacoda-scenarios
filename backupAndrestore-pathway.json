@@ -4,7 +4,7 @@
   "icon": "fa-katacoda",
   "courses": [{
     "course_id": "install-cape",
-    "title": "Backup And Restore with CAPE",
+    "title": "CAPE",
     "description": "CAPE by Biqmind Kubernetes multi-cluster application and data management made simple. ."
   }]
 }
