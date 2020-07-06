@@ -1,6 +1,7 @@
 {
   "title": "CAPE",
   "description": "CAPE(clusters across platforms & environments) Kubernetes multi-cluster application and data management made simple. ",
+  "icon": "fa-katacoda",
   "courses": [{
     "course_id": "install-cape",
     "title": "CAPE",
