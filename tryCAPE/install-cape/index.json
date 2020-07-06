@@ -31,7 +31,7 @@
       {
         "name": "CAPE Console", "port": 443}
       ],
-    "uilayout": "terminal-iframe",
+    "uilayout": "terminal-terminal-iframe",
     "hideintro": false,
     "hidefinish": false
   },
