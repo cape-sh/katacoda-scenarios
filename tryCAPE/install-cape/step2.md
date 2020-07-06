@@ -2,5 +2,5 @@
 
 Enter the following command
 ```
-kubectl apply -f https://cape.sh/install/simple.yaml
+kubectl -n cape set env API_BASE_URL=https://[HOST2_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
 ```{{execute}}
