@@ -1,10 +1,10 @@
 {
   "title": "CAPE Intro",
-  "description": "CAPE by Biqmind Kubernetes multi-cluster application and data management made simple. ",
+  "description": "CAPE by Biqmind:  Kubernetes multi-cluster application and data management made simple. ",
   "icon": "fa-katacoda",
   "courses": [{
     "course_id": "install-cape",
     "title": "Backup And Restore with CAPE",
-    "description": "CAPE by Biqmind Kubernetes multi-cluster application and data management made simple. ."
+    "description": "CAPE by Biqmind: Kubernetes multi-cluster application and data management made simple. ."
   }]
 }
