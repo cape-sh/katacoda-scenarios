@@ -1,6 +1,6 @@
 ## Access CAPE UI
 
-Enter the following command:
+Click the following command:
 ```
 kubectl -n cape wait --for=condition=available --timeout=600s deployment/web
 ```{{execute HOST1}}

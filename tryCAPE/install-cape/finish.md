@@ -1,1 +1,1 @@
-You have successfully completed  course
+You have successfully completed course
