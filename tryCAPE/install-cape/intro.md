@@ -3,5 +3,4 @@ CAPE provides advanced Kubernetes features for Disaster Recovery, Data Migration
 Deploy advanced K8s functionalities without the learning curve. This repo is for tracking community issues and feedback. Try CAPE today and let us know what you think!
 
 See the following video for a short intro:
-<iframe width="560" height="315" src="https://youtu.be/4KJt8NXTO8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4KJt8NXTO8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
