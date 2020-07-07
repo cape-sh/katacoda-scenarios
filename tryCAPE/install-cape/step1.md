@@ -1,5 +1,5 @@
 
-Enter the following command
+Enter the following command:
 ```
 helm repo add cape https://charts.cape.sh
 helm repo update
