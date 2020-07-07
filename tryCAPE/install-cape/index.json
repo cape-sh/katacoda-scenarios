@@ -6,12 +6,28 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Install CAPE",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Set Environments",
         "text": "step2.md"
+      },
+      {
+        "title": "Access CAPE UI",
+        "text": "step3.md"
+      },
+      {
+        "title": "Setup Organization",
+        "text": "step4.md"
+      },
+      {
+        "title": "Add Cluster",
+        "text": "step5.md"
+      },
+      {
+        "title": "Install Backup and Restore Component",
+        "text": "step6.md"
       }
     ],
     "intro": {
