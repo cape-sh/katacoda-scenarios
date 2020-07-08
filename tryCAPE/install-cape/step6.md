@@ -8,7 +8,7 @@ To install CAPE Backup & DR Operator:
  ![Components](./assets/Components.png)
 4. Select <b>MinIO</b> and click <b>Next</b>
  ![Minio](./assets/Minio.png)
-5. Enter the following details as displayed in the screenshot. <b>Note:</b> You can enter any value for the secret
+5. Enter the following details as displayed in the screenshot and click <b>Next</b> <b>Note:</b> You can enter any value for the secret
  ![Miniodetails](./assets/Miniodetails.png)
 6. Enable <b>Restic</b> and click <b>Next</b>
  ![Restic](./assets/Restic.png)
