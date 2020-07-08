@@ -17,6 +17,6 @@ To install CAPE Backup & DR Operator:
 8. The installation progress screenshot is displayed.
   ![ComponentsInstallation.png](./assets/ComponentsInstallation.png)
 
-The wizard is displayed.
-Follow on-screen text in each step to comlete the fields.
+
+
 
