@@ -1,6 +1,6 @@
 {
-  "title": "Install CAPE",
-  "description": "Install CAPE",
+  "title": "Backup & Restore",
+  "description": "Install CAPE, Backup & Restore a Cluster",
   "difficulty": "Beginner",
   "time": "8 minutes",
   "details": {

@@ -16,5 +16,4 @@ To connect a cluster:
 8. Wait for the command to execute and go back to CAPE UI. A success message is displayed.
 ![agentconnectionsuccess](./assets/agentconnectionsuccess.png)
 
-Congrats, your cluster is now connected and proceed to the next step to connect the backup component.
 
