@@ -1,5 +1,5 @@
 
-You need to setup an organization. To do so:
+Set up your organization.
 
 1. Enter an organization name, for example "myorg"
 

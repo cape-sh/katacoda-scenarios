@@ -1,1 +1,1 @@
-You have successfully completed course.
+Woohoo! You have successfully completed the CAPE introduction tutorial. To start using CAPE for your projects, visit https://github.com/cape-sh/cape or https://cape.sh. CAPE is available through all your favorite platforms including Docker Hub, OperatorHub, Ansible and Helm

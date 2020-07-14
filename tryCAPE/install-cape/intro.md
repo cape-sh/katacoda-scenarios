@@ -1,3 +1,1 @@
-CAPE provides advanced Kubernetes features for Disaster Recovery, Data Migration & Mobility, Multi-cluster Application Deployment and CI/CD within a single, intuitive interface. Deploy advanced K8s functionalities without the learning curve. 
-
-For more information on CAPE, go to www.cape.sh
+Learn more about CAPE and try the community edition at CAPE.SH. CAPE is available through all your favorite platforms including Docker Hub, OperatorHub, Ansible and Helm.
