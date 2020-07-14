@@ -7,6 +7,7 @@ kubectl -n cape set env deploy/web \
 
 
 <b>Access CAPE UI</b>
+
 Please wait for the updated message that CAPE deployment is complete.
 
 You can use the CAPE console to access CAPE UI or open a new tab with the following URL: 
