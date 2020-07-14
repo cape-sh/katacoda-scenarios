@@ -1,5 +1,4 @@
 
-To restore a backup:
 
 1. Click 'Restore' from the main menu. The Restore page with existing restores are displayed.
 2. Select the cluster to restore the backup.
