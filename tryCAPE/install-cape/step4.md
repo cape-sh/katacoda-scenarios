@@ -8,6 +8,6 @@ You need to setup an organization. To do so:
 <b>Note:</b> Please use lowercase for any CAPE configurations.
 
 
-2. Click <b>Complete</b>
+2. Click <b>Complete</b>. 
 
 

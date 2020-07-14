@@ -1,12 +1,12 @@
 
-Enter the following command:
+Click the following command:
 ```
 helm repo add cape https://charts.cape.sh
 helm repo update
 ```{{execute HOST1}} 
 
 
-Enter the following command:
+Click the following command:
 ```
 helm install cape-install cape/cape \
   --set ingress.hostname=[[HOST_SUBDOMAIN]]-30036-[[KATACODA_HOST]].environments.katacoda.com \

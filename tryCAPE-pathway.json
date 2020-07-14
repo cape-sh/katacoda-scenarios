@@ -4,7 +4,7 @@
   "icon": "fa-katacoda",
   "courses": [{
     "course_id": "install-cape",
-    "title": "Backup And Restore with CAPE",
-    "description": "The tutorial will guide you how to install using helm, setup cluster for backup, create on-demand backup, and restore the backup"
+    "title": "Backup and Restore with CAPE",
+    "description": "The tutorial will guide you how to install using HELM, setup cluster for backup, create on-demand backup, and restore the backup"
   }]
 }

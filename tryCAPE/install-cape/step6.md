@@ -1,4 +1,4 @@
-<b>Note</b>The tutorial will use MinIO as storage.
+<b>Note:</b> The tutorial will use MinIO as storage.
 
 To install CAPE Backup & DR Operator:
 

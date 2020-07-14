@@ -1,4 +1,4 @@
-<b>Note</b>The tutorial will use K8s for connecting to a cluster.
+<b>Note:</b> The tutorial will use K8s for connecting to a cluster.
 
 To connect a cluster:
 1. Click <b>Cluster Management</b> from the main menu to displayed the sub-menu.
