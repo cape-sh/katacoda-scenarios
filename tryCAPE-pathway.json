@@ -1,10 +1,10 @@
 {
-  "title": "CAPE",
+  "title": "",
   "description": "CAPE by Biqmind:  Kubernetes multi-cluster application and data management made simple. ",
   "icon": "fa-katacoda",
   "courses": [{
     "course_id": "install-cape",
-    "title": "Backup and Restore with CAPE",
-    "description": "The tutorial will guide you how to install using HELM, setup cluster for backup, create on-demand backup, and restore the backup"
+    "title": "Introduction to CAPE Features",
+    "description": "This This tutorial will walk you through how to: install CAPE using Helm, set up a Kubernetes cluster for backup, create an on-demand backup, and restore a backup"
   }]
 }

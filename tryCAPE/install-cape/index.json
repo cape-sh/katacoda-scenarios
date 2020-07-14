@@ -2,7 +2,7 @@
   "title": "Backup & Restore",
   "description": "Install CAPE, Backup & Restore a Cluster",
   "difficulty": "Beginner",
-  "time": "8 minutes",
+  "time": "15 minutes",
   "details": {
     "steps": [
       {
