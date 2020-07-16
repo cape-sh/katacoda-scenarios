@@ -1,6 +1,6 @@
 {
-  "title": "",
-  "description": "CAPE by Biqmind:  Kubernetes multi-cluster application and data management made simple. ",
+  "title": "Kubernetes multi-cluster application and data management made simple.",
+  "description": "Developed by Biqmind: We provide specialist services and software tools to accelerate cloud-native software development through technologies including Biqmind CAPE, Kubernetes, and container platforms such as Red Hat OpenShift and Azure Kubernetes Service.  ",
   "icon": "fa-katacoda",
   "courses": [{
     "course_id": "install-cape",
