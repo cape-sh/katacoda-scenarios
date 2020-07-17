@@ -55,7 +55,7 @@
     "dashboards": [
       {
         "name": "CAPE Console",
-        "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"
+        "href": "https://[[HOST_SUBDOMAIN]]-30036-[[KATACODA_HOST]].environments.katacoda.com"
       }
     ],
     "uilayout": "terminal-iframe",
