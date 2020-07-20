@@ -30,16 +30,12 @@
         "text": "step6.md"
       },
       {
-        "title": "Add a Backup Location",
+        "title": "Add a Backup",
         "text": "step7.md"
       },
       {
-        "title": "Add a Backup",
-        "text": "step8.md"
-      },
-      {
         "title": "Restore a Backup",
-        "text": "step9.md"
+        "text": "step8.md"
       }
     ],
     "intro": {
