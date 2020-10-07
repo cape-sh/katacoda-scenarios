@@ -11,7 +11,7 @@
 ![waitagentconnection](./assets/waitagentconnection.png)
 7. Go back to katacoda terminal, and paste the Kubectl command line.
 ![agentconnectioncommadline](./assets/agentconnectioncommadline.png)
-8. Wait for the command to execute and go back to CAPE UI. You will see the following message:
+8. Wait for the command to execute and go back to CAPE Console UI. You will see the following message:
 ![agentconnectionsuccess](./assets/agentconnectionsuccess.png)
 
 
