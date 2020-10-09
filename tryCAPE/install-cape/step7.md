@@ -36,15 +36,15 @@ We have prepared an app (to-do-app) to be use for this tutorial. Before using th
 
 6. Click the Todo App tab to access the app
 
-![CAPE Console](./assets/console.png)
+    ![CAPE Console](./assets/capeconsole.png)
 
-The following app screenshot is displayed.
-![Todo](./assets/todo.png)
+    The following app screenshot is displayed.
+    ![Todo](./assets/todo.png)
 
 7. Enter some tasks as shoen in the following screenshot.
-![todotasks](./assets/todotasks.png)
+    ![todotasks](./assets/todotasks.png)
 
-Now, you are ready to backup.
+    Now, you are ready to backup.
 
 
 
