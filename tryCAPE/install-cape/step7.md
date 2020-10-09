@@ -14,9 +14,11 @@ We have prepared an app (to-do-app) to be use for this tutorial. Before using th
     ```{{execute HOST1}}
 
 3. Run the following command to verify deployment:
+
     ```
     kubectl -n cape wait --for=condition=available --timeout=600s deployment/todo-app -n todo    
-    ```
+    ```{{execute HOST1}}
+
 4. After the app is deploy, run the following command to check the app namespace
 
     ```
