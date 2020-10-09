@@ -9,7 +9,7 @@ kubectl create namespace todo
 2. Run the following command to deploy the app to the cluster.
 
 ```
-kubectl apply -f https://raw.githubusercontent.com/debianmaster/go-to-do-app/master/deploy-stateless/k8s.yaml
+kubectl apply -f https://raw.githubusercontent.com/debianmaster/go-to-do-app/master/deploy-stateless/k8s.yaml -n todo
 ```{{execute HOST1}}
 
 3. After the app is deploy, run the following command to check the app namespace
@@ -25,7 +25,7 @@ The following screenshot displayed the status.
 4. Once the status for the app namespace is running, run the following command to display the app in port 3000.
 
 ```
-kubectl port-foward svc/todo-app 3000 n todo --address 0.0.0.0
+kubectl port-foward svc/todo-app 3000 -n todo --address 0.0.0.0
 ```{{execute HOST1}}
 
 5. Open a new tab and enter 127.0.0.1:3000. The following screenshot is dispalyed.
