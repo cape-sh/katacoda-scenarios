@@ -56,6 +56,10 @@
       {
         "name": "CAPE Console",
         "href": "https://[[HOST_SUBDOMAIN]]-30036-[[KATACODA_HOST]].environments.katacoda.com"
+      },
+      {
+        "name": "Todo App",
+        "href": "https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com"
       }
     ],
     "uilayout": "terminal-iframe",
