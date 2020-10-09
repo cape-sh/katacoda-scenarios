@@ -6,5 +6,8 @@ kubectl -n cape set env deploy/web \
 ```{{execute HOST1}}
 
 
-Wait for the updated message that CAPE deployment is complete (this process can take up to 5 minutes). Use the CAPE console to access the CAPE UI or open a new tab with the following URL:
-https://[[HOST_SUBDOMAIN]]-30036-[[KATACODA_HOST]].environments.katacoda.com
+Wait for the updated message that CAPE deployment is complete (this process can take up to 5 minutes). 
+
+Click the CAPE console tab to access the CAPE UI as shown:
+
+![CAPE Console](./assets/console.png)
