@@ -1,0 +1,78 @@
+{
+  "title": "Create Federation and Deploy App",
+  "description": "Create Federation and Deploy App",
+  "difficulty": "Beginner",
+  "time": "15 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Install another Cluster",
+        "text": "step1.md"
+      },
+      {
+        "title": "Create Federation",
+        "text": "step2.md"
+      },
+      {
+        "title": "Create Credentials",
+        "text": "step3.md"
+      },
+      {
+        "title": "Connect Repo",
+        "text": "step4.md"
+      },
+      {
+        "title": "Define Application",
+        "text": "step5.md"
+      },
+      {
+        "title": "Deploy an App",
+        "text": "step6.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "code": "setup.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "showdashboard": "true",
+    "dashboards": [
+      {
+        "name": "CAPE Console",
+        "href": "https://[[HOST_SUBDOMAIN]]-30036-[[KATACODA_HOST]].environments.katacoda.com"
+      },
+      {
+        "name": "Todo App",
+        "href": "https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com"
+      }
+    ],
+    "uilayout": "terminal-iframe",
+    "hideintro": false,
+    "hidefinish": false,
+    "assets":{
+      "host01": [
+          {"file": "ingress-install.yaml", "target": "/root"}
+      ]
+    },
+    "environment": {
+      "terminals": [
+        {
+          "name": "CAPE Control Plane",
+          "target": "host01"
+        },
+        {
+          "name": "cluster1",
+          "command": "",
+          "target": "host02"
+        }
+      ]
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster-running"
+  }
+}
