@@ -1,16 +1,15 @@
 
-Now you need to connect to the repo
+Now you need to define the app.
 
-1. Click 'Repositories'
-2. Click 'Connect Repository'
-3. Select Github.
-4. We will be using the to-do app repo, enter https://github.com/biqmind/go-to-do-app.git for the Repository URL.
-5. Select the credentials that was created in step 3, and click 'Connect'
+1. Click 'Applications'
+2. Click 'Define Application'
+3. Select the repositoru that we have connect in step 4, the to-do repo.
+4. Enter 'master' for the branch.
+5. Enter 'todo' for the namespace.
+6. Enter 'deploy-stateless' for the deploy folder .
+7. Select 'Manifest' as the deploy method, and click 'Next'.
+8. Review and click 'Define'. 
 
-
-
-
-
-
+Now this application is defined.
 
 

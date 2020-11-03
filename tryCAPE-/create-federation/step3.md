@@ -1,9 +1,16 @@
-To deploy an app, you need to create credentials, connect to the repo, define the app before deploying the app.
 
-1. Click 'Credentials'
-2. Click 'Add Credentials'
-3. Enter a name for credential.
-4. Select UserID/Password and enter the information and then click 'Add'
+Now you need to connect to the repo
 
-Note: you can use any random credential name, userID and password for the tutorial.
+1. Click 'Repositories'
+2. Click 'Connect Repository'
+3. Select Github.
+4. We will be using the to-do app repo, enter https://github.com/biqmind/go-to-do-app.git for the Repository URL.
+5. Select the credentials that was created in step 3, and click 'Connect'
+
+
+
+
+
+
+
 

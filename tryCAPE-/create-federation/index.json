@@ -2,32 +2,28 @@
   "title": "Create Federation and Deploy App",
   "description": "Create Federation and Deploy App",
   "difficulty": "Beginner",
-  "time": "15 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
-        "title": "Install another Cluster",
+        "title": "Create Federation",
         "text": "step1.md"
       },
       {
-        "title": "Create Federation",
+        "title": "Create Credentials",
         "text": "step2.md"
       },
       {
-        "title": "Create Credentials",
+        "title": "Connect Repo",
         "text": "step3.md"
       },
       {
-        "title": "Connect Repo",
+        "title": "Define Application",
         "text": "step4.md"
       },
       {
-        "title": "Define Application",
-        "text": "step5.md"
-      },
-      {
         "title": "Deploy an App",
-        "text": "step6.md"
+        "text": "step5.md"
       }
     ],
     "intro": {
