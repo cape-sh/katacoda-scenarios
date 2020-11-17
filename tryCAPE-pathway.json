@@ -3,15 +3,15 @@
   "description": "CAPE makes the difficult simple when it comes to Kubernetes Disaster Recovery, Cluster Migration & Upgrades, Data Protection and Cloning.",
   "icon": "fa-katacoda",
   "courses": [
-  {
-    "course_id": "install-cape",
-    "title": "Introduction to CAPE Features",
-    "description": "This tutorial will walk you through how to: install CAPE using Helm, set up a Kubernetes cluster for backup, create an on-demand backup, and restore a backup"
-  },
-  {
-    "course_id": "create-federation",
-    "title": "CAPE Advanced Features",
-    "description": "This tutorial will walk you through how to: create a federation, and define an app"
-  }
-]
+    {
+      "course_id": "install-cape",
+      "title": "Introduction to CAPE Features",
+      "description": "This tutorial will walk you through how to: install CAPE using Helm, set up a Kubernetes cluster for backup, create an on-demand backup, and restore a backup"
+    },
+    {
+      "course_id": "create-federation",
+      "title": "CAPE Advanced Features",
+      "description": "This tutorial will walk you through how to: create a federation, and define an app"
+    }
+  ]
 }
