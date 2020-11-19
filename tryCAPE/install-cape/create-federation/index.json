@@ -6,44 +6,24 @@
   "details": {
     "steps": [
       {
-        "title": "Install CAPE",
+        "title": "Create Federation",
         "text": "step1.md"
       },
       {
-        "title": "Set Environments",
+        "title": "Create Credentials",
         "text": "step2.md"
       },
       {
-        "title": "Access CAPE UI",
+        "title": "Connect Repo",
         "text": "step3.md"
       },
       {
-        "title": "Setup Organization",
+        "title": "Define Application",
         "text": "step4.md"
       },
       {
-        "title": "Add Cluster",
-        "text": "step5.md"
-      },
-      {
-        "title": "Create Federation",
-        "text": "step6.md"
-      },
-      {
-        "title": "Create Credentials",
-        "text": "step7.md"
-      },
-      {
-        "title": "Connect Repo",
-        "text": "step8.md"
-      },
-      {
-        "title": "Define Application",
-        "text": "step9.md"
-      },
-      {
         "title": "Deploy an App",
-        "text": "step10.md"
+        "text": "step5.md"
       }
     ],
     "intro": {

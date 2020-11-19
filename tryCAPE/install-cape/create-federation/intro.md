@@ -1,0 +1,1 @@
+Learn more about CAPE and try the community edition at CAPE.SH. CAPE is available through all your favorite platforms including Docker Hub, OperatorHub, Ansible and Helm.
