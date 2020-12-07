@@ -7,7 +7,7 @@ Set up your organization.
     <b>Note:</b> Please use lowercase for all CAPE configurations.
     ![Myorg](./assets/myorg.png)
 3. Click <b>'Complete'</b>.
-4. Select <b>'myorg'</b> from the dropdown list and click <b>Select</b>. 
+4. Click <b>Select</b>. 
 
 
 
