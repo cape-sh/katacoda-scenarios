@@ -1,5 +1,5 @@
 
-We have prepared an app (to-do-app) to be use for this tutorial. Before using this app, we need to create a namespace 
+We have prepared an app (to-do-app) to be use for this tutorial.
 
 1. Before using this app, we need to create a namespace. In the terminal, run the following command to create the following namespace 'to-do'.
 
@@ -34,17 +34,17 @@ We have prepared an app (to-do-app) to be use for this tutorial. Before using th
     kubectl port-forward svc/todo-app 3000 -n todo --address 0.0.0.0
     ```{{execute HOST1}}
 
-6. Click the Todo App tab to access the app
+6. Click the Todo App tab to access the app and the following is displayed:
 
     ![CAPE Console](./assets/capeconsole.png)
 
     The following app screenshot is displayed.
     ![Todo](./assets/todo.png)
 
-7. Enter some tasks as shoen in the following screenshot.
+7. Enter some tasks, for example “eat”, “drink” and “run”
     ![todotasks](./assets/todotasks.png)
 
-    Now, you are ready to backup.
+    Now, you are ready to backup the app.
 
 
 

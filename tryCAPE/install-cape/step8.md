@@ -1,20 +1,20 @@
 
 
-1. Click 'Backup' from the main menu. The Backup page with existing backups are displayed.
-2. Select the cluster to create the backup.
-3. Click Create backup. The wizard is displayed.
-4. Select 'todo' namespace (as created in step 7), and click 'Next'.
+1. On 'CAPE Console', navigate to 'CAPE menu', then 'Backups and Disaster Recovery' and select 'Backup'.
+![backup](./assets/backup.png)
+2. 'cluster1. is selected by default. Click 'Create backup'
+![createbackup](./assets/createbackup.png)
+3. Enter backup name, for example 'backup1' and click 'Next'.
+![createbackup](./assets/createbackup1.png)
+4. Select 'todo' from the Specific namespace dropdown menu..
 ![SelectNamespace](./assets/SelectNamespace.png)
-5. Select label(s), and click 'Next'.
-![SelectLabel](./assets/SelectLabel.png)
-6. Select resource(s), and click 'Next'.
-![SelectResource](./assets/SelectResource.png)
-7. Select volume(s), and click 'Next'.
+5. 'All Labels' is selected by default. Click 'Next'
+6. 'All resources' is selected by default. Click 'Next'.
+7. The option 'Include persistent volumes in backup' is selected  by default.
 ![SelectVolumes](./assets/SelectVolumes.png)
-8. Select schedule, and click 'Next'.
+8. One time (now) backup schedule option is selected by default. Click 'Next'.
 ![SelectSchedule](./assets/SelectSchedule.png)
-9. Review the details, and click 'Create'
-![ReviewBackup](./assets/ReviewBackup.png)
+9. Review selections and click 'Create' to create the backup.
 10. After backup is created, the details are displayed  
 ![BackupInProgress](./assets/BackupInProgress.png)
 
