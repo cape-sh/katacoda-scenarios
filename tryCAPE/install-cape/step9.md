@@ -1,11 +1,7 @@
 
-Before procceding with the restore, we need to delete the the namespace 'todo', run the following command in the terminal:
 
-```
-k delete ns todo
-```{{execute HOST1}}
 
-1. Click 'Restore' from the main menu. The Restore page with existing restores are displayed.
+1. On CAPE Console, navigate to CAPE menu, then Backups and Disaster Recovery and select 'Restore '. The Restore page with existing restores are displayed.”
 2. Select the cluster to restore the backup.
 3. Click 'Restore backup'. The wizard is displayed.
 4. Name your restore and select backup(created in previous step 8), and click 'Next'.
