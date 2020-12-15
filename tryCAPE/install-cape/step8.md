@@ -2,7 +2,7 @@
 
 1. On 'CAPE Console', navigate to 'CAPE menu', then 'Backups and Disaster Recovery' and select 'Backup'.
 ![backup](./assets/backup.png)
-2. 'cluster1. is selected by default. Click 'Create backup'
+2. 'cluster1'. is selected by default. Click 'Create backup'
 ![createbackup](./assets/createbackup.png)
 3. Enter backup name, for example 'backup1' and click 'Next'.
 ![createbackup](./assets/createbackup1.png)
