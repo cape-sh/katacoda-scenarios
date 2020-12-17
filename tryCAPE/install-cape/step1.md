@@ -8,6 +8,8 @@ Wait for the environment to be ready and then run the following command to grab 
   ```{{execute HOST1}} 
 
 
+
+
 2. Run the following command:
   ```
   helm install cape-install cape/cape \
