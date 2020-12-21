@@ -16,3 +16,5 @@ Wait for the environment to be ready and then run the following command to grab 
   --set licence="free10nodes"
   ```{{execute HOST1}}
 
+
+
