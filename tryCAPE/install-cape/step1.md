@@ -14,9 +14,3 @@ Wait for the environment to be ready and then run the following command to grab 
   --set ingress.scheme=http \
   --set licence="free10nodes"
   ```{{execute HOST1}}
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 8c546f3f56d51af3f0e0559acb3c04a6134226f4
